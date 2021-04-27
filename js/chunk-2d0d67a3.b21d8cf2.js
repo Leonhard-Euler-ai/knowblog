@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d67a3"],{"735f":function(e,n,a){"use strict";a.r(n);var t=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("div",[e._v("标签页")])},c=[],u={name:"LabelView"},i=u,l=a("2877"),r=Object(l["a"])(i,t,c,!1,null,"9e998ca0",null);n["default"]=r.exports}}]);
+//# sourceMappingURL=chunk-2d0d67a3.b21d8cf2.js.map
